@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post_Checkout_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e32a040-8e6a-4590-b222-1980d79414c3</testCaseGuid>
+</TestCaseEntity>

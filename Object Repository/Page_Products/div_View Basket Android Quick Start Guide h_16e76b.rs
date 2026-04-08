@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View Basket Android Quick Start Guide h_16e76b</name>
+   <tag></tag>
+   <elementGuidId>9927e3a0-4cdf-4b39-b042-55f6bb26e5f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;View Basket “Android Quick Start Guide” has been added to your basket.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33df86fc-e931-4f9d-827e-70dabd5e0a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-message</value>
+      <webElementGuid>c1c7b2d0-828e-4e2c-9b77-fab226c3d088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Basket “Android Quick Start Guide” has been added to your basket.</value>
+      <webElementGuid>8b4fca3a-2094-4951-8fb8-ad56d4f25b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;woocommerce-message&quot;]</value>
+      <webElementGuid>0994155f-1013-4f4a-a25c-2f541ae9fdaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div</value>
+      <webElementGuid>7147c7ed-8374-4fdc-a59d-71508b951971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[1]/following::div[1]</value>
+      <webElementGuid>4599a221-875f-4a2b-8a7f-7e8194d26d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
+      <webElementGuid>54abba54-d104-4c13-968c-77a7d0d9b445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::div[1]</value>
+      <webElementGuid>f6435e37-8752-4a94-a6e7-9d6b0e17d645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='“Android Quick Start Guide” has been added to your basket.']/parent::*</value>
+      <webElementGuid>3c2d69e2-0fac-4fd5-80ba-fbe5a62e076c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>f64843e0-a218-42b3-a144-1bae7cae8e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View Basket “Android Quick Start Guide” has been added to your basket.' or . = 'View Basket “Android Quick Start Guide” has been added to your basket.')]</value>
+      <webElementGuid>86807702-0829-4618-a185-c27894d5ee6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

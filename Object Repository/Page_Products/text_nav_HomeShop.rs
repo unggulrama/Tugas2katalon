@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_nav_HomeShop</name>
+   <tag></tag>
+   <elementGuidId>2f5d82ae-3ec2-4028-869d-319eda2c8cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.woocommerce-breadcrumb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Home / Shop&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>e50d30c0-e5df-4ffa-8de2-0c95af428f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-breadcrumb</value>
+      <webElementGuid>fb325ae3-7c72-4690-9cec-6e30491259ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home / Shop</value>
+      <webElementGuid>63129053-667d-4295-9860-ae54e29f1c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/nav[@class=&quot;woocommerce-breadcrumb&quot;]</value>
+      <webElementGuid>8dc017a9-030f-497c-a5c9-68e79c83ddc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/nav</value>
+      <webElementGuid>5e960646-63a2-472b-81bd-6023fb51d7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹0.00'])[1]/following::nav[1]</value>
+      <webElementGuid>2c464a95-06b4-4485-b0b1-fc9d5a02097e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site'])[1]/following::nav[1]</value>
+      <webElementGuid>d152eb59-b30e-4d64-8137-e4d9ed27196a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::nav[1]</value>
+      <webElementGuid>9bdbec91-bdd8-4cdd-bf91-b13e6ec0b3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/nav</value>
+      <webElementGuid>17c7fcba-ef25-4ca9-8d30-18a5b2173565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Home / Shop' or . = 'Home / Shop')]</value>
+      <webElementGuid>d2107941-fa8a-40e8-bfe2-ef4ecd563bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/preceding::nav[1]</value>
+      <webElementGuid>b4063d4f-b141-4a1e-8eb4-f374f0963ec7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

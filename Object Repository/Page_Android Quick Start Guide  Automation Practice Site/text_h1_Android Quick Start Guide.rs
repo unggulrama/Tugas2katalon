@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_h1_Android Quick Start Guide</name>
+   <tag></tag>
+   <elementGuidId>d7e98ff5-4d8b-4f57-ac3c-3aa5cbce2a69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.product_title.entry-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-169']/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Android Quick Start Guide&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3e2ab659-bb04-40c9-9b06-b5eabc1b3595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>1898c245-0551-41f9-9fd3-51955309202d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_title entry-title</value>
+      <webElementGuid>07334232-553e-4a72-b74f-de47ee7ce57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Android Quick Start Guide</value>
+      <webElementGuid>898f862e-338a-457e-8972-702ad6429e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-169&quot;)/div[@class=&quot;summary entry-summary&quot;]/h1[@class=&quot;product_title entry-title&quot;]</value>
+      <webElementGuid>c18348fe-6872-465e-8914-4edb174c465b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-169']/div[2]/h1</value>
+      <webElementGuid>ac19ffec-3e43-45d5-ab87-41c9386ea216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/following::h1[1]</value>
+      <webElementGuid>4d6f441e-52b6-44ed-bcb5-750f5048c583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[1]/following::h1[1]</value>
+      <webElementGuid>cb9e73d9-0fd1-40bd-97c8-fa6e85918675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0f9b4f69-7f47-4ce9-b232-76e54f5479ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/preceding::h1[1]</value>
+      <webElementGuid>3eab6b2d-aea4-4657-b3c3-185f960cda51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Android Quick Start Guide']/parent::*</value>
+      <webElementGuid>f705737b-ca0f-495c-ac3e-862ebfd7831e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>f2320336-8f89-428b-bd7b-25935d7448a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Android Quick Start Guide' or . = 'Android Quick Start Guide')]</value>
+      <webElementGuid>8a1da823-8add-4bb1-bb66-dadbd6a1677b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

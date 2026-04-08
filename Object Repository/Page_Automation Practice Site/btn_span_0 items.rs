@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_span_0 items</name>
+   <tag></tag>
+   <elementGuidId>0ab4a6bd-4c21-4de9-a9ff-aa2ca18720ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cartcontents</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='wpmenucartli']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; 0 items -₹0.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25fa59cc-4303-4a40-822e-2b6d3683299d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cartcontents</value>
+      <webElementGuid>da2f44ce-e6e2-468d-a132-d6497869e9eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0 items</value>
+      <webElementGuid>1131acd8-9b2b-4a94-86ee-963eb59aed80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpmenucartli&quot;)/a[@class=&quot;wpmenucart-contents empty-wpmenucart-visible&quot;]/span[@class=&quot;cartcontents&quot;]</value>
+      <webElementGuid>ca0c4de6-2840-4a1c-a84e-b4272411e151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='wpmenucartli']/a/span</value>
+      <webElementGuid>04174690-3d23-4fb0-84ca-6e31c901c368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site'])[1]/following::span[1]</value>
+      <webElementGuid>d26f1fc9-c984-458e-bc7a-d1001d8c3f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AT Site'])[1]/following::span[1]</value>
+      <webElementGuid>e895474f-69f1-4113-8992-63ac0bdb6fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹0.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>6cbc5f91-9dc3-44f9-bffb-900758e497b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/preceding::span[2]</value>
+      <webElementGuid>e30fb021-55d9-4abb-8a1c-b193253295d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0 items']/parent::*</value>
+      <webElementGuid>df513348-c286-407f-bbd6-5e6cd73938f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>bb398a7d-89ba-49e9-885a-67889e5f8d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0 items' or . = '0 items')]</value>
+      <webElementGuid>332bf308-94ca-4b29-b93a-9ddd3949d719</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

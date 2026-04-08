@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg_Checkout_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6f1fb3f-31b3-4e19-8001-f91f3b083e24</testCaseGuid>
+</TestCaseEntity>

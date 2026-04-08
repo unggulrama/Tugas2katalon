@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg_Add_Basket_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8ec5056-8c43-4f1b-a867-7717a36971f4</testCaseGuid>
+</TestCaseEntity>

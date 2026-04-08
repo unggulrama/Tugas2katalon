@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Billing Postcode  ZIP is a required field</name>
+   <tag></tag>
+   <elementGuidId>84849fd1-d78d-4887-b95c-15cff70c8fd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-35']/div/div/form[3]/ul/li[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Billing Postcode / ZIP is a required field.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9af839e1-b5b5-4535-9b35-1dc270573735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Postcode / ZIP is a required field.</value>
+      <webElementGuid>ef797511-a287-4860-bb0b-f96fdbc3c447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-35&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[7]</value>
+      <webElementGuid>e5a2ed8a-4613-485b-b820-1e862069d3cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-35']/div/div/form[3]/ul/li[7]</value>
+      <webElementGuid>f33cb977-a553-4123-8e23-e47ad44e8340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Town / City'])[1]/following::li[1]</value>
+      <webElementGuid>cc13c2ae-34d8-4c78-8882-7eeb987382a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Details'])[1]/preceding::li[1]</value>
+      <webElementGuid>5eca42fd-2122-48aa-aca0-1d969de55677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]</value>
+      <webElementGuid>75988b70-9922-4cf7-b646-f99d363b43ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Billing Postcode / ZIP is a required field.' or . = 'Billing Postcode / ZIP is a required field.')]</value>
+      <webElementGuid>79a8002e-c91d-47a5-8fb6-48e0498edb75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

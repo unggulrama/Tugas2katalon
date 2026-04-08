@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sale_attachment-shop_catalog size-shop__dbdc79</name>
+   <tag></tag>
+   <elementGuidId>035764b8-9659-45c5-a978-4b18c3a6758d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-shop_catalog.size-shop_catalog.wp-post-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/ul/li/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sale! Android Quick Start Guide Android Quick Start Guide ₹600.00 ₹450.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>72dad9ee-0b25-40a2-a48c-7aeb1a86d8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>3d84f381-fcd6-404a-b8ee-6ba2a9e083c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>74ee5308-bc08-4821-952b-450b05315e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-300x300.png</value>
+      <webElementGuid>78a82367-ca7d-42ef-a2dd-936375f18103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-shop_catalog size-shop_catalog wp-post-image</value>
+      <webElementGuid>19da927b-1d3f-4167-9561-7ff40ceced09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Android Quick Start Guide</value>
+      <webElementGuid>4324bdf1-1b6c-44f4-8e96-51f3d8c4b611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>3966a924-5c42-406b-a76f-100f25e26d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Android Quick Start Guide</value>
+      <webElementGuid>ea3f0596-cdab-4f29-a976-2dd674999848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-300x300.png 300w, https://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-150x150.png 150w, https://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-180x180.png 180w, https://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-600x600.png 600w</value>
+      <webElementGuid>c1e70a24-e681-46f3-a43d-a42f51d93694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 300px) 100vw, 300px</value>
+      <webElementGuid>682865a6-2c75-4a57-8070-c4397d6ac33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[@class=&quot;products masonry-done&quot;]/li[@class=&quot;post-169 product type-product status-publish product_cat-android product_tag-android has-post-title no-post-date has-post-category has-post-tag has-post-comment has-post-author first instock sale downloadable taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link&quot;]/img[@class=&quot;attachment-shop_catalog size-shop_catalog wp-post-image&quot;]</value>
+      <webElementGuid>8bd5795f-406c-4b29-ab72-32a900456af7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul/li/a/img</value>
+      <webElementGuid>113b5b6d-41ce-476c-a77e-65f51bb067bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Android Quick Start Guide']</value>
+      <webElementGuid>239917d4-fa3c-4aad-b55f-96ffa3092c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/img</value>
+      <webElementGuid>9394be93-cda6-4b78-bfc5-a5233f9c788d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-300x300.png' and @alt = 'Android Quick Start Guide' and @title = 'Android Quick Start Guide']</value>
+      <webElementGuid>a3278015-1db4-4dd8-afac-7fd24385b22f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

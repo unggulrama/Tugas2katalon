@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg_Login_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86bf51d2-321d-4c2a-8a9d-f10f4110f59a</testCaseGuid>
+</TestCaseEntity>
