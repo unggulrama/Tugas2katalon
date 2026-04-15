@@ -6,12 +6,12 @@
    <elementGuidId>97e5bca3-ae97-4dcc-9781-b77dd7d7872f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#billing_first_name</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='billing_first_name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_first_name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>eef4ae9d-b91f-43d7-9c4b-1ff7d6b0e81c</webElementGuid>
+      <webElementGuid>c8091b28-cb7c-4276-aa86-23bd55a25d43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>134ad69e-c0ee-4ed9-8e52-7b5bb781ed6b</webElementGuid>
+      <webElementGuid>9b5646a9-d5da-4dc9-8dba-26978ad2a603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>3123e473-318c-4d6d-b9ec-cd0157537f49</webElementGuid>
+      <webElementGuid>537f8efd-ac09-4ff8-a611-ae1ed1815c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_first_name</value>
-      <webElementGuid>801cd654-0a5b-47ed-a253-a4612145c4b2</webElementGuid>
+      <webElementGuid>c7b5815f-6c0d-480f-886f-f527c1bf5f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_first_name</value>
-      <webElementGuid>aeebc740-28fe-4fe1-8e0c-4f3b80d0ce9a</webElementGuid>
+      <webElementGuid>d7e1d07b-5a82-4ae3-916f-88db82149ae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>given-name</value>
-      <webElementGuid>db3856ac-678f-42be-86ce-e205f796908b</webElementGuid>
+      <webElementGuid>b2d85a4b-ef9a-455f-900f-9e1af9ffe8c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_first_name&quot;)</value>
-      <webElementGuid>3561068d-6902-488b-a110-872108eda9b0</webElementGuid>
+      <webElementGuid>398e6b04-0787-42e1-a5fb-f7e8ff848573</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_first_name']</value>
-      <webElementGuid>e4852567-9cf4-443b-a8be-cf0894da072d</webElementGuid>
+      <webElementGuid>e5fa3d2d-5d81-4c51-a69d-8877701d5fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_first_name_field']/input</value>
-      <webElementGuid>081c109f-84ee-41af-90fb-e0185a5ca198</webElementGuid>
+      <webElementGuid>a218423c-a05e-461e-841d-7fc1d977e2e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/p/input</value>
-      <webElementGuid>9d857a31-1d2e-48ee-955e-e7d941658a0a</webElementGuid>
+      <webElementGuid>0596a409-6007-4d17-90ab-f0d745e08aa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_first_name' and @id = 'billing_first_name']</value>
-      <webElementGuid>c9195097-5fa1-4ead-bfaf-56602f6d231c</webElementGuid>
+      <webElementGuid>f073260b-5310-4b1e-b9b4-ba75fa7317a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

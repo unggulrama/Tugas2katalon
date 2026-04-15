@@ -21,5 +21,7 @@ WebUI.callTestCase(findTestCase('Reusable/Open Browser'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('Blocks/Positive/Post_Login_001'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('Reusable/TC_Validasi_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('Reusable/Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 

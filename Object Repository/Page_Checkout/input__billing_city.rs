@@ -6,12 +6,12 @@
    <elementGuidId>6b10c80c-799e-4ec8-984c-d4013cb2c487</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#billing_city</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='billing_city']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_city</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>180832db-a5d3-49cf-a169-932f4ff36f70</webElementGuid>
+      <webElementGuid>5c85cf95-c11c-4d77-ba4f-cb0bbe7c1b5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4bd19a4e-6dbb-45ca-8fbe-0c3dd274b330</webElementGuid>
+      <webElementGuid>02ca044c-7735-42a4-8222-5138a9f2effe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>6c5b3749-55a4-47db-a9a5-e8975f7cc04c</webElementGuid>
+      <webElementGuid>a181cc4a-9488-43a0-b346-d4a85fe916fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_city</value>
-      <webElementGuid>adc4d65d-e032-4fee-9415-30cec075d195</webElementGuid>
+      <webElementGuid>b53a8aae-1b0b-4fab-94ac-80cfe3b36b05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_city</value>
-      <webElementGuid>448be627-d2e9-4ced-a5c5-77b26f16393f</webElementGuid>
+      <webElementGuid>8c94510b-76f4-49a3-a2da-1497cee5dbaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>address-level2</value>
-      <webElementGuid>df69e53d-55a2-459b-aa4b-599dfbe1a28e</webElementGuid>
+      <webElementGuid>af4efa05-8220-477f-b38e-d5326f39da69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_city&quot;)</value>
-      <webElementGuid>52f32fe0-3768-4d0c-a12e-b77964e02b54</webElementGuid>
+      <webElementGuid>a3432276-93c5-4f41-b8ea-507e8af92295</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_city']</value>
-      <webElementGuid>ae25e7a9-a12c-43f1-98be-152598f802a7</webElementGuid>
+      <webElementGuid>000046a7-2b56-4e1e-90b2-7e09fdfb0c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_city_field']/input</value>
-      <webElementGuid>b045b789-d5ba-46c4-9c02-0c8aaaf3c3e5</webElementGuid>
+      <webElementGuid>6f705ac3-8da9-4ae0-ba95-2104952c7476</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[9]/input</value>
-      <webElementGuid>335db905-9e92-4c7d-adfd-9e7443b2385a</webElementGuid>
+      <webElementGuid>818dc264-9474-42c2-9a7b-b0b77a41f96a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_city' and @id = 'billing_city']</value>
-      <webElementGuid>b077cef2-8760-4784-b70b-3610011e2efe</webElementGuid>
+      <webElementGuid>73f62bd7-1790-4d65-929d-441a14ece344</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

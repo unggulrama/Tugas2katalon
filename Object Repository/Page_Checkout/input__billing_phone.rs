@@ -6,12 +6,12 @@
    <elementGuidId>7580805f-90c7-43fd-b8fc-002932944f4b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#billing_phone</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='billing_phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_phone</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f1f97f97-962d-45f0-93d6-f295131b9512</webElementGuid>
+      <webElementGuid>69fcfd40-a06d-47fe-9595-3583afe5c904</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>ffbcc534-32c0-4415-828f-5ad8a4bad72b</webElementGuid>
+      <webElementGuid>8d22f8e7-7940-4fc1-acd5-bc651b482e6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>17a3d4b8-4d2d-40e4-9032-2250d7206844</webElementGuid>
+      <webElementGuid>873dcdf5-4168-4438-90bb-6805d081c083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_phone</value>
-      <webElementGuid>57f462d0-c7d3-44c3-b75c-e5bb3bda67b7</webElementGuid>
+      <webElementGuid>e2de9be7-e2be-4b33-b955-f8d680316503</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_phone</value>
-      <webElementGuid>4978e651-9e52-4178-9b4b-2724a0af98eb</webElementGuid>
+      <webElementGuid>561806f8-7818-4d23-9c33-4a8148e882e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>ad16d81a-09f2-43aa-9d12-bb948a310aa8</webElementGuid>
+      <webElementGuid>ab1450e1-0265-4aa4-8eb1-993e039d93c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_phone&quot;)</value>
-      <webElementGuid>c539ed12-0b1f-497b-9b27-621cb8ca881b</webElementGuid>
+      <webElementGuid>c23a82ae-ef83-4a01-b77d-7c3d76fe59b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_phone']</value>
-      <webElementGuid>1985421d-676c-497e-8605-81d1152f2497</webElementGuid>
+      <webElementGuid>58a63386-cad3-41f1-a711-9fea6b39f959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_phone_field']/input</value>
-      <webElementGuid>fca22e98-0e62-4af2-86a0-674f22e14185</webElementGuid>
+      <webElementGuid>ff2dc968-eb60-4767-a2c2-09d5c68670fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[5]/input</value>
-      <webElementGuid>140b6bbe-ed74-4e8b-8ebe-dc411d184895</webElementGuid>
+      <webElementGuid>36801e04-56fb-4e83-b0ad-89603a73505c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'tel' and @name = 'billing_phone' and @id = 'billing_phone']</value>
-      <webElementGuid>820b72b4-0c50-44bc-8185-742024fe4fac</webElementGuid>
+      <webElementGuid>ee8bd5fb-b017-4ed8-b3b2-b51ddc21ca4f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

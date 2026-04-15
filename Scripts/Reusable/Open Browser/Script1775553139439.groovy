@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://practice.automationtesting.in/')
+WebUI.navigateToUrl(GlobalVariable.MainUrl)
 
 WebUI.maximizeWindow()
 

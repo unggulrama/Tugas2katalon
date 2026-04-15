@@ -6,12 +6,12 @@
    <elementGuidId>ae51af77-f496-4601-9f8b-46a200f2647c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#billing_postcode</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='billing_postcode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_postcode</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1fcbde66-52d9-4bfc-9324-b3c8602132bc</webElementGuid>
+      <webElementGuid>f5482418-b633-4bcd-8666-79d891e12c78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f0410212-767c-48ea-ba61-b9aa50b299a6</webElementGuid>
+      <webElementGuid>da29c230-70c0-47df-a20c-23f751b57921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>25d0a6ac-5b8e-43b1-917d-ecf5c6c0b536</webElementGuid>
+      <webElementGuid>4b340325-a9b1-4705-aa91-cfd6eb892d52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_postcode</value>
-      <webElementGuid>46f8157f-50be-4030-840e-e76ac3d57607</webElementGuid>
+      <webElementGuid>11f95a63-69d7-4ed1-8187-423ebd0299a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_postcode</value>
-      <webElementGuid>780b657d-f73a-4418-bd0e-a8994328b181</webElementGuid>
+      <webElementGuid>1e8149b7-b40c-4592-8bcd-51e755caca7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>postal-code</value>
-      <webElementGuid>fc6d2dbe-b88f-4a7b-87c6-6fe0fa81d49a</webElementGuid>
+      <webElementGuid>b4c5623b-a4a0-4178-a71d-4bcb62e9dfb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_postcode&quot;)</value>
-      <webElementGuid>bf0fb7cb-152e-4824-867f-9c1a89ece835</webElementGuid>
+      <webElementGuid>d1675748-b135-48b0-801e-4148881cf047</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_postcode']</value>
-      <webElementGuid>887bbf67-adf6-4051-9161-5e6224bb2d10</webElementGuid>
+      <webElementGuid>2bb17506-49b4-42cb-9116-0da40098a186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_postcode_field']/input</value>
-      <webElementGuid>0ab3ea43-e861-436b-9ded-13822cf1fd35</webElementGuid>
+      <webElementGuid>ada58def-1fe1-49e8-8605-9acabf3a26b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[11]/input</value>
-      <webElementGuid>95e2fac3-f678-4fdf-b50c-7ba518b177bf</webElementGuid>
+      <webElementGuid>6b4f44e3-3a3f-447b-800c-e24fc69d2a5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_postcode' and @id = 'billing_postcode']</value>
-      <webElementGuid>1928b790-2cef-498d-9892-884fd1d6120a</webElementGuid>
+      <webElementGuid>34a28a66-fb51-47da-83a4-204ba7ceb0dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

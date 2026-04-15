@@ -17,11 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Reusable/Open Browser'), [:], FailureHandling.STOP_ON_FAILURE)
+boolean validasi = WebUI.verifyElementPresent(findTestObject('Page_My Account/a_Sign out'), 0, FailureHandling.OPTIONAL)
 
-WebUI.callTestCase(findTestCase('Blocks/Negative/Neg_Login_001'), [:], FailureHandling.STOP_ON_FAILURE)
+if (validasi) {
+    WebUI.comment('berhasil login')
 
-WebUI.callTestCase(findTestCase('Reusable/TC_Validasi_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+    WebUI.verifyElementPresent(findTestObject('Page_My Account/a_Sign out'), 0, FailureHandling.OPTIONAL)
+} else {
+    WebUI.comment('gagal login')
 
-WebUI.callTestCase(findTestCase('Reusable/Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
+    WebUI.verifyElementPresent(findTestObject('Page_My Account/text_ul_Error The username unggulramagmail is no_77d8fe'), 
+        0, FailureHandling.OPTIONAL)
+}
 

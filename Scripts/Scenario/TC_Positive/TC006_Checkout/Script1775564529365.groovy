@@ -21,7 +21,9 @@ WebUI.callTestCase(findTestCase('Reusable/Open Browser'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('Blocks/Positive/Post_Login_001'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Blocks/Positive/Post_Checkout_001'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Blocks/Positive/Post_Checkout_001'), [('Firstname') : Firstname, ('Lastname') : Lastname
+        , ('Companyname') : Companyname, ('Emailaddress') : Emailaddress, ('Phone') : Phone, ('Address') : Address, ('Towncity') : Towncity
+        , ('Postcodezip') : Postcodezip, ('Paymentmethod') : Paymentmethod], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Reusable/Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 

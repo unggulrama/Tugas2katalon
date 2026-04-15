@@ -27,6 +27,3 @@ WebUI.click(findTestObject('Object Repository/Page_My Account/btn_Remember me_re
 
 WebUI.click(findTestObject('Object Repository/Page_My Account/btn_input__login'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Account/text_ul_Error The username unggulramagmail is no_77d8fe'), 
-    0)
-

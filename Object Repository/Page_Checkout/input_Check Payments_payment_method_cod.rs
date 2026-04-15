@@ -6,12 +6,12 @@
    <elementGuidId>d3631b92-7280-4cf6-92aa-0c660161cd3f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#payment_method_cod</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='payment_method_cod']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#payment_method_cod</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4c1b86c4-0f30-4e8b-b193-8de30b3d4bfa</webElementGuid>
+      <webElementGuid>0e662e5c-bcb2-4ab3-8fe5-dc8b7a0b099a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>payment_method_cod</value>
-      <webElementGuid>90881541-42ca-434b-a643-b28edbe29caa</webElementGuid>
+      <webElementGuid>26d35358-bfd0-4805-a088-f108e65ed2d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>0bdecd25-44f9-4251-97f9-5f0962264918</webElementGuid>
+      <webElementGuid>f26dc2c0-4400-41fb-938e-c3f4596cbcd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-radio</value>
-      <webElementGuid>553cfbfb-bcd6-46e7-805e-aedc2673b3bd</webElementGuid>
+      <webElementGuid>ee3313ed-d431-48dc-83e5-46363927fbbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>payment_method</value>
-      <webElementGuid>99760a91-52ca-49c1-a7fc-147092194c24</webElementGuid>
+      <webElementGuid>2e5c433c-1374-40f7-a0ff-673ff90f0794</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>cod</value>
-      <webElementGuid>717c9e46-9d6a-42e7-95ca-d4f2c39fb31f</webElementGuid>
+      <webElementGuid>2848f158-27cd-49c1-a0c5-0f6a02da8f35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;payment_method_cod&quot;)</value>
-      <webElementGuid>c8b938a3-ba7d-4a0e-9313-c9825176eadc</webElementGuid>
+      <webElementGuid>191fa11f-f938-4566-bac9-280e0605b8e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='payment_method_cod']</value>
-      <webElementGuid>4e99e919-97c7-4b4c-8ea2-c372ac468e50</webElementGuid>
+      <webElementGuid>99bfe25c-a4ac-4829-be7c-51ae0b32186f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment']/ul/li[3]/input</value>
-      <webElementGuid>211b4d22-9666-4db0-a94a-d2969c357549</webElementGuid>
+      <webElementGuid>1797a561-f562-471f-adc7-25cc9f49af2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/input</value>
-      <webElementGuid>612c4981-163c-488e-bf6e-e946201b19b3</webElementGuid>
+      <webElementGuid>4a8a874e-d1bc-4d4a-8aed-8988eca0192f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'payment_method_cod' and @type = 'radio' and @name = 'payment_method']</value>
-      <webElementGuid>a185efce-e680-4fb5-b305-d5d9a96297ac</webElementGuid>
+      <webElementGuid>a35ff707-98e5-4d30-bb86-074f8280ff03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

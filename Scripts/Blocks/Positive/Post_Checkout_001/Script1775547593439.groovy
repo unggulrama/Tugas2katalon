@@ -17,18 +17,55 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Practice Site/btn_a_Shop'))
+WebUI.click(findTestObject('Object Repository/Page_Checkout/btn_a_Shop'))
 
-WebUI.click(findTestObject('Object Repository/Page_Products/text_h3_Android Quick Start Guide'))
+WebUI.click(findTestObject('Page_Checkout/a_Add to basket'))
 
-WebUI.click(findTestObject('PageProductAndroid/btn_Add to basket'))
+WebUI.click(findTestObject('Page_Checkout/a_View Basket'))
 
-WebUI.click(findTestObject('Page_Android Quick Start Guide  Automation Practice Site/btn_a_View Basket'))
+WebUI.click(findTestObject('Object Repository/Page_Checkout/btn_a_Proceed to Checkout'))
 
-WebUI.click(findTestObject('Page_Basket/btn_a_Proceed to Checkout'))
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input__billing_first_name'), Firstname)
 
-WebUI.click(findTestObject('Object Repository/Page_Checkout/btn_input_PayPal Express Checkout_place_order'))
+WebUI.setText(findTestObject('Page_Checkout/input__billing_last_name'), Lastname)
 
-WebUI.waitForElementVisible(findTestObject('Page_Checkout/text_div_Thank you. Your order has been received_e71fcd'), 
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input_Company Name_billing_company'), Companyname)
+
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input__billing_email'), Emailaddress)
+
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input__billing_phone'), Phone)
+
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input__billing_address_1'), Address)
+
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input__billing_city'), Towncity)
+
+WebUI.setText(findTestObject('Object Repository/Page_Checkout/input__billing_postcode'), Postcodezip)
+
+select_radio = Paymentmethod
+
+switch (select_radio) {
+    case 'Direct Bank Transfer':
+        WebUI.click(findTestObject('Object Repository/Page_Checkout/input__payment_method_bacs'))
+
+        break
+    case 'Check Payments':
+        WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Direct Bank Transfer_payment_method_cheque'))
+
+        break
+    case 'Cash on Delivery':
+        WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Check Payments_payment_method_cod'))
+
+        break
+    case 'PayPal Express Checkout':
+        WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Cash on Delivery_payment_method_ppec_paypal'))
+
+        break
+    default:
+        break
+}
+
+WebUI.click(findTestObject('Object Repository/Page_Checkout/input_PayPal Express Checkout_place_order'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Checkout/p_Thank you. Your order has been received'), 
     0)
 

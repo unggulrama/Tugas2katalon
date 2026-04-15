@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Province    Select an option   Province  _700693</name>
+   <tag></tag>
+   <elementGuidId>9d0d6f3f-6917-4d7d-bf18-4c917e0ca963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_state_field']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_state_field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Province * Select an option… Province * Province * Select an option…Daerah Istim&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e97d663f-bce4-45eb-b2bc-2af50284762d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-row form-row form-row-first address-field validate-state woocommerce-validated validate-required</value>
+      <webElementGuid>90be2509-5528-4f0e-bf1b-19b177658357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>billing_state_field</value>
+      <webElementGuid>a5503e9d-8701-44b8-ba29-72d96082bf33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-o_class</name>
+      <type>Main</type>
+      <value>form-row form-row form-row-first address-field validate-required validate-state woocommerce-validated</value>
+      <webElementGuid>35d5fa6c-35d1-4472-aaed-e4e90db021c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Province *   Select an option…   Province *          Province *                Select an option…Daerah Istimewa AcehSumatera UtaraSumatera BaratRiauKepulauan RiauJambiSumatera SelatanBangka BelitungBengkuluLampungDKI JakartaJawa BaratBantenJawa TengahJawa TimurDaerah Istimewa YogyakartaBaliNusa Tenggara BaratNusa Tenggara TimurKalimantan BaratKalimantan TengahKalimantan TimurKalimantan SelatanKalimantan UtaraSulawesi UtaraSulawesi TengahSulawesi TenggaraSulawesi BaratSulawesi SelatanGorontaloMalukuMaluku UtaraPapuaPapua Barat</value>
+      <webElementGuid>90635368-cec6-41d4-82c4-8a8af8b40fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_state_field&quot;)</value>
+      <webElementGuid>a6a9ec4e-29ab-465f-9333-52c88215a246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='billing_state_field']</value>
+      <webElementGuid>fcfa65e8-94d3-4196-bc26-3e014f93d2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_details']/div/div/p[10]</value>
+      <webElementGuid>4104f428-be17-4f91-b724-97e5a90e24ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::p[1]</value>
+      <webElementGuid>764b809b-d672-496d-93a6-978a3ad5d2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[10]</value>
+      <webElementGuid>5519fef8-1ee9-491a-a70d-aa07a22fb875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'billing_state_field' and (text() = 'Province *   Select an option…   Province *          Province *                Select an option…Daerah Istimewa AcehSumatera UtaraSumatera BaratRiauKepulauan RiauJambiSumatera SelatanBangka BelitungBengkuluLampungDKI JakartaJawa BaratBantenJawa TengahJawa TimurDaerah Istimewa YogyakartaBaliNusa Tenggara BaratNusa Tenggara TimurKalimantan BaratKalimantan TengahKalimantan TimurKalimantan SelatanKalimantan UtaraSulawesi UtaraSulawesi TengahSulawesi TenggaraSulawesi BaratSulawesi SelatanGorontaloMalukuMaluku UtaraPapuaPapua Barat' or . = 'Province *   Select an option…   Province *          Province *                Select an option…Daerah Istimewa AcehSumatera UtaraSumatera BaratRiauKepulauan RiauJambiSumatera SelatanBangka BelitungBengkuluLampungDKI JakartaJawa BaratBantenJawa TengahJawa TimurDaerah Istimewa YogyakartaBaliNusa Tenggara BaratNusa Tenggara TimurKalimantan BaratKalimantan TengahKalimantan TimurKalimantan SelatanKalimantan UtaraSulawesi UtaraSulawesi TengahSulawesi TenggaraSulawesi BaratSulawesi SelatanGorontaloMalukuMaluku UtaraPapuaPapua Barat')]</value>
+      <webElementGuid>29507b85-3e4a-4969-bc72-acd9a56fa074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
